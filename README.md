@@ -18,6 +18,6 @@ things. i am fun to work with and I love teamwork.
 
 List some of your key skills or technologies you work with.
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Collaborative skill
+- Creativity
+- Working under pressure
